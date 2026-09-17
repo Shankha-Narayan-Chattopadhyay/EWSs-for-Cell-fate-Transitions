@@ -8,4 +8,4 @@
 
 (5) For additional information regarding the necessary hyperparameter configurations follow the manuscript.
 
-Note: The MATLAB version used for the analysis is R2024b, and the R version is 4.5.1.
+Note: The MATLAB version used for the analysis is 2024b, and the R version is 4.5.1.
