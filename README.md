@@ -7,3 +7,5 @@
 (4) Finally, to generate the multivariate early warning signal from the residuals as in Figs. 3, 7,8 and 10 use EWSmethods toolbox (Duncan O'Brien; https://duncanobrien.github.io/EWSmethods/). 
 
 (5) For additional information regarding the necessary hyperparameter configurations follow the manuscript.
+
+Note: The MATLAB version used for the analysis is R2024b, and the R version is 4.5.1.
